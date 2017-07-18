@@ -1,0 +1,5 @@
+package org.abyssinia.persistance.controllers;
+
+public class CategoryController {
+
+}

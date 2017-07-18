@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=/home/strovoski/Desktop/EAProject/EcommerceEnterprise/.git\:
-GitRepositoriesView.GitDirectories.relative=EcommerceEnterprise/.git\:
+GitRepositoriesView.GitDirectories=/home/strovoski/Desktop/EAProject/.git\:/home/strovoski/Desktop/EAProject/EcommerceEnterprise/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:EcommerceEnterprise/.git\:
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

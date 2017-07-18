@@ -30,13 +30,13 @@ public class ProductRestController {
 		return productService.findOne(id);
 	}
 	
-	@RequestMapping(value=UrlList.ADD,method= RequestMethod.POST)
+	@RequestMapping(method= RequestMethod.POST)
 	@ResponseStatus(code= HttpStatus.NO_CONTENT)
 	public void addProduct(@RequestBody Product product){
 		productService.save(product);
 	}
 	
-	@RequestMapping(value=UrlList.UPDATE,method= RequestMethod.PUT)
+	@RequestMapping(method= RequestMethod.PUT)
 	public void updateProduct(@RequestBody Product product){
 		productService.update(product);
 	}

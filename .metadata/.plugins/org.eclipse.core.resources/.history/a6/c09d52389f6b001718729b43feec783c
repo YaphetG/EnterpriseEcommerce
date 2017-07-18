@@ -1,0 +1,34 @@
+package org.abyssinia.webfront.service.impl;
+
+import java.util.List;
+
+import org.abyssinia.webfront.domain.Category;
+import org.abyssinia.webfront.service.CategoryService;
+
+public class CategoryServiceImpl implements CategoryService {
+
+	@Override
+	public void addCategory(Category category) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void updateCategory(Category category) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Category getCategoryById() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Category> getCategoryAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

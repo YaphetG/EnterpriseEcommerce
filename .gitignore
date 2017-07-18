@@ -1,0 +1,9 @@
+/.metadata/*
+/.recommenders/*
+/MemberMVC.zip
+/MemberMVC (copy)
+/Servers/*
+/RemoteSystemsTempFiles/*
+/PersistenceRest.zip
+*.class
+
